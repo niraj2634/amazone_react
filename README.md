@@ -1,2 +1,2 @@
 # amazone_react
-https://github.com/niraj2634/amazone_react.git
+https://niraj2634.github.io/React_movies_app
